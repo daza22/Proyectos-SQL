@@ -1,4 +1,4 @@
-Show first name, last name, and the full province name of each patient.
+# Show first name, last name, and the full province name of each patient.
 Example: 'Ontario' instead of 'ON'
 
 SELECT
